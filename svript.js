@@ -5,7 +5,7 @@ buttonElement.addEventListener('click', () => {
 
     const inputValue = inputElement.value;
 
-    window.location.href = `file:///C:/Users/yo/Documents/GitHub/insideWebPuzzle/${inputValue}.html`;
+    window.location.href = `https://inside-web-puzzle.netlify.app/${inputValue}.html`;
 });
 
 /* みかか暗号 */

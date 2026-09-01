@@ -8,4 +8,4 @@ buttonElement.addEventListener('click', () => {
     window.location.href = `https://inside-web-puzzle.netlify.app/${inputValue}.html`;
 });
 
-/* みかか暗号 */
+/* みかか暗号. */
